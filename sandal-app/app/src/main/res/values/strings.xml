@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ишлаб чиқариш</string>
+    <string name="offline_title">Интернет йўқ</string>
+    <string name="offline_text">Алоқани текширинг ва қайта уриниб кўринг.</string>
+    <string name="retry">Қайта уриниш</string>
+</resources>
